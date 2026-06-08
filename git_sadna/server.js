@@ -1,6 +1,12 @@
 const port = document.getElementById('div_header').ariaValueMax
 console.log(port)
-consolde.log('test')
+console.log('3')
 
+app.get(res,req)
+{
+const httpreq = req
+
+
+}
 
 
